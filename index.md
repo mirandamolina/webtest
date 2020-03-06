@@ -1,38 +1,26 @@
-## Welcome to GitHub Pages
+# Título 1
+## Título 2
+### Título 3
+### Título 4
+Texto
+[link](http://www.geometriadinamica.cl)
 
-You can use the [editor on GitHub](https://github.com/mirandamolina/webtest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+``` 
+código
 ```
+- viñeta
+- viñeta
+- viñeta
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Lista numerada
+2. Lista numerada
 
-### Jekyll Themes
+**negrita**
+_cursiva_
+`código`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirandamolina/webtest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+[Image](https://pbs.twimg.com/profile_images/1180793039700275203/dJEvAj5W_400x400.jpg)
 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](url) and ![Image](https://cdn-images-1.listennotes.com/podcasts/coloquio/coloquio-de-la-comunidad-1FC9uelmqUc-kufD7JEOR5P.1400x1400.jpg)
+```
